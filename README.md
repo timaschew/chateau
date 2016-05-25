@@ -10,7 +10,7 @@ You can think of Chateau like a PhpMyAdmin for RethinkDB.
 
 ### Install from npm
 ```
-sudo npm install -g chateau
+npm install -g chateau
 chateau
 ```
 
